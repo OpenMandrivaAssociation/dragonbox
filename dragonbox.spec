@@ -3,7 +3,7 @@
 %define devname %mklibname dragonbox -d
 
 Name: dragonbox
-Version: 1.1.2
+Version: 1.1.3
 Release: 1
 Source0: https://github.com/jk-jeon/dragonbox/archive/refs/tags/%{version}.tar.gz
 Summary: Float-to-string conversion library
