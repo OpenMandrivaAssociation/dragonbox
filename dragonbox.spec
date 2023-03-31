@@ -4,7 +4,7 @@
 
 Name: dragonbox
 Version: 1.1.3
-Release: 1
+Release: 2
 Source0: https://github.com/jk-jeon/dragonbox/archive/refs/tags/%{version}.tar.gz
 Summary: Float-to-string conversion library
 URL: https://github.com/jk-jeon/dragonbox
